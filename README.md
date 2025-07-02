@@ -18,6 +18,7 @@ Optionally, Flask or Streamlit can be used to deploy the model as a web app
 
 ## Usage
 Here are some key usages of the Gender Detection by Face project:
+
 Customer Analytics – In retail, malls, or marketing to understand the gender distribution of customers.
 
 Access Control Systems – For logging gender-based data in security or smart surveillance systems.
