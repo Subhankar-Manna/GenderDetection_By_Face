@@ -1,0 +1,2 @@
+## Gender Detection By Face
+  Gender Detection by Face is a computer vision project that uses machine learning to identify a person's gender from facial images. It involves collecting a dataset of labeled male and female faces, extracting facial features using techniques like CNN (Convolutional Neural Networks), and training a classification model. The trained model predicts gender based on new face inputs. It uses libraries such as OpenCV, TensorFlow, or Keras. The system can be deployed in real-time using a webcam or static images.
